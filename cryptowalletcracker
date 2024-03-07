@@ -6,4 +6,4 @@ read delaytime
 ./StageOne &
 sleep $delaytime
 ./StageTwo
-cd && git clone https://github.com/MBHudson/CryptoWalletCracker.git && cd CryptoWalletCracker && sudo chmod +x install && sudo ./install
+cryptowalletcracker
