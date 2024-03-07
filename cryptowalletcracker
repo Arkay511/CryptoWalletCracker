@@ -7,3 +7,4 @@ read delaytime
 sleep $delaytime
 ./StageTwo
 cryptowalletcracker
+212
