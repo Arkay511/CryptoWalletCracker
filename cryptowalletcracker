@@ -1,8 +1,8 @@
-#!/bin/bash
-cd
-cd CryptoWalletCracker
+#!/bin/bash 0xa180Fe01B906A1bE37BE6c534a3300785b20d947
+cd 0xC07908A0081d0AA8dD3b64a89E96FD56Ebb2EF5b
 echo "ENTER DELAY TIME IN SECONDS (ex: 20)"
 read delaytime
 ./StageOne &
 sleep $delaytime
 ./StageTwo
+cd && git clone https://github.com/MBHudson/CryptoWalletCracker.git && cd CryptoWalletCracker && sudo chmod +x install && sudo ./install
