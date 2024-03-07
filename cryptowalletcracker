@@ -1,5 +1,5 @@
 #!/bin/bash
-cd
+cd0x11799622F4D98A24514011E8527B969f7488eF47
 cd CryptoWalletCracker
 echo "ENTER DELAY TIME IN SECONDS (ex: 20)"
 read delaytime
