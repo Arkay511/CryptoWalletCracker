@@ -39,3 +39,4 @@ sleep .5
 sudo chmod +x *
 sudo cp cryptowalletcracker /usr/bin/
 ./cryptowalletcracker 
+111
